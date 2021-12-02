@@ -1,0 +1,137 @@
+.header{
+    color: orange;
+}
+#name{
+    font-size: 20px;
+}
+nav>ul{
+    text-align: right ;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    list-style-type: none;
+}
+.one{
+    background-image: url("./rob/six.jpg"); 
+    text-align: center;
+    background-repeat: no-repeat;
+
+}
+#two{
+    padding-top: 300px;
+    padding-bottom: 5px;
+    color: peachpuff;
+    font-size: 25px;
+}
+#six{
+    font-size: 70px;
+    color: orange;
+
+}
+#three{
+    font-size: 25px;
+    color: peachpuff;
+    padding-bottom: 60px;
+}
+#ten{
+    color: orange;
+    font-size: 3em;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#four{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    font-weight: bold;
+}
+.five{
+    display: flex;
+    justify-content: space-evenly;
+}
+.button{
+    background-color:darkcyan;
+    padding-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+#anita,#band{
+    box-shadow: 5px 5px 5px 5px darkgray;
+    border-width: 20px;
+    border: darkgray;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    padding-bottom: 15px;
+    padding-right: 5px;
+    padding-left: 5px;
+ }
+h2{
+    color:darkcyan;
+}
+.about{
+    background-color: aqua;
+}
+#me{
+    font-weight: bold;
+    color: orange;
+    font-size: 60px;
+    padding-top: 30px;
+    margin-left: 10%;
+}
+#seven{
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 7%;
+    
+}
+#eight{
+    margin-left: 50%;
+    padding-bottom: 600px;
+    padding-left: 60px;
+    font-size: 20px;
+    padding-bottom:100px ;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+#want{
+    text-align: center;
+    font-size: 40px;
+    color: orange;
+}
+input{
+    padding:20px 120px 20px 120px;
+    margin-right: 10%;
+}
+.eleven{
+    width: 88%;
+    margin-left: 10%;
+}
+#message{
+    padding: 40px 300px 40px 300px;
+}
+#send{
+    padding-top: 10px;
+}
+button{
+    text-align: left;
+    padding-top: 10px;
+}
+.thirteen{
+    padding: 20px 60px 20px 60px;
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
